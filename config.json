@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderparse",
+        "uuid": 1499555,
+        "checksum": "oebpkp"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
